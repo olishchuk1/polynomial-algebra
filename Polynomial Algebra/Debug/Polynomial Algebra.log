@@ -1,0 +1,13 @@
+﻿  polynom.cpp
+e:\programing\c++\algorithms-homework\polynomial algebra\polynomial algebra\polynom.cpp(52): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+e:\programing\c++\algorithms-homework\polynomial algebra\polynomial algebra\polynom.cpp(53): warning C4018: '<': signed/unsigned mismatch
+e:\programing\c++\algorithms-homework\polynomial algebra\polynomial algebra\polynom.cpp(111): warning C4018: '<': signed/unsigned mismatch
+e:\programing\c++\algorithms-homework\polynomial algebra\polynomial algebra\polynom.cpp(112): warning C4018: '<': signed/unsigned mismatch
+e:\programing\c++\algorithms-homework\polynomial algebra\polynomial algebra\polynom.cpp(142): warning C4018: '<': signed/unsigned mismatch
+e:\programing\c++\algorithms-homework\polynomial algebra\polynomial algebra\polynom.cpp(154): warning C4018: '<': signed/unsigned mismatch
+e:\programing\c++\algorithms-homework\polynomial algebra\polynomial algebra\polynom.cpp(165): warning C4018: '<': signed/unsigned mismatch
+e:\programing\c++\algorithms-homework\polynomial algebra\polynomial algebra\polynom.cpp(176): warning C4018: '<': signed/unsigned mismatch
+e:\programing\c++\algorithms-homework\polynomial algebra\polynomial algebra\polynom.cpp(182): warning C4018: '<': signed/unsigned mismatch
+e:\programing\c++\algorithms-homework\polynomial algebra\polynomial algebra\polynom.cpp(190): warning C4018: '<': signed/unsigned mismatch
+e:\programing\c++\algorithms-homework\polynomial algebra\polynomial algebra\polynom.cpp(220): warning C4018: '<': signed/unsigned mismatch
+  Polynomial Algebra.vcxproj -> E:\programing\C++\algorithms-homework\Polynomial Algebra\Debug\Polynomial Algebra.exe
