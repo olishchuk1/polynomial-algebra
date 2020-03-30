@@ -7,3 +7,4 @@ Some basic operations for polynoms implemented on C++
 - addition of polynomials
 - subtraction of polynomials
 - derivative of polynomials
+- antiderivative of polynomials
