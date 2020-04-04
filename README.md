@@ -8,3 +8,4 @@ Some basic operations for polynoms implemented on C++
 - subtraction of polynomials
 - derivative of polynomials
 - antiderivative of polynomials
+- formated output
